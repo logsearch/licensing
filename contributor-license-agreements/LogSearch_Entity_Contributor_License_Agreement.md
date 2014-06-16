@@ -177,14 +177,13 @@ ________________________
 
 Us
 
-________________________
+The LogSearch Project (github.com/logsearch) by City Index Ltd.
 
-Name: __________________
+Name: Mike Lear
 
-Title: ___________________
+Title: Chief Information Officer
 
-Address: ________________
+Address: Park House, 16 Finsbury Circus, London, EC2M 7EB, UNITED KINGDOM
 
-________________________
 
 Harmony (HA-CLA-E-OSI) Version 1.0
