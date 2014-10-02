@@ -1,11 +1,12 @@
 # LogSearch Individual Contributor License Agreement
 
-Thank you for your interest in contributing to LogSearch ("We" or "Us").
+Thank you for your interest in contributing to LogSearch ("We" or "Us")
+run by City Index Limited (“We" or "Us"). 
 
 This contributor agreement ("Agreement") documents the rights granted by
 contributors to Us. To make this document effective, please sign it and send
 it to Us by electronic submission, following the instructions at
-http://www.logsearch.io/licensing. This is a legally binding document, so
+http://github.com/logsearch/licensing. This is a legally binding document, so
 please read it carefully before agreeing to it. The Agreement may cover more
 than one software project managed by Us.
 
@@ -14,14 +15,30 @@ than one software project managed by Us.
 "You" means the individual who Submits a Contribution to Us.
 
 "Contribution" means any work of authorship that is Submitted by You to Us in
-which You own or assert ownership of the Copyright. If You do not own the
-Copyright in the entire work of authorship, please follow the instructions in
-http://www.logsearch.io/licensing.
+which You own or assert ownership of the Intellectual Property Rights. If You do 
+not own the Intellectual Property Rights in the entire work of authorship, please 
+follow the instructions in http://github.com/logsearch/licensing.
 
-"Copyright" means all rights protecting works of authorship owned or
-controlled by You, including copyright, moral and neighboring rights, as
-appropriate, for the full term of their existence including any extensions by
-You.
+"Intellectual Property Rights" means without limitation, all present and future 
+rights title and interest  (as the same may be extended or amended) throughout 
+the world in to or arising out of all forms of intellectual property including: 
+(i) any national or international patent, patent claims  including, without 
+limitation, method, process, and apparatus claims, and any and all re¬issues, 
+divisions, continu¬a¬¬tions, renewals, extensions and continuations-in-part thereof; 
+(ii) inventions (whether patentable or not in any country), invention disclosures, 
+improvements, trade secrets, proprietary information, know-how, technology and 
+technical data; 
+(iii) copyrights, copyright registrations, mask works, mask work registrations; and 
+(iv) all trade names, logos, common law trademarks and service marks; trademark 
+and service mark registrations, goodwill, business names and domain names; and 
+(v) all so-called ‘sui generis’ rights (otherwise known as database rights); and 
+(vi) all rights in registered and unregistered designs; and 
+(vii) any other proprietary rights anywhere in the world and all rights or forms 
+of protection having equivalent or similar effect to any of the foregoing; and 
+(viii) applications for the grant of any of the foregoing anywhere in the world, 
+and all other rights corresponding thereto throughout the world together with 
+and all rights of registration, extension and renewal thereof; and 
+(ix) the right to bring legal proceedings to enforce any of the foregoing rights.
 
 "Material" means the work of authorship which is made available by Us to third
 parties. When this Agreement covers more than one software project, the
@@ -42,42 +59,40 @@ first Submit a Contribution to Us, whichever is earlier.
 
 ## 2. Grant of Rights
 
-### 2.1 Copyright License
+### 2.1 Intellectual Property Rights Assignment
 
-(a) You retain ownership of the Copyright in Your Contribution and have the
-same rights to use or license the Contribution which You would have had
-without entering into the Agreement.
-
-(b) To the maximum extent permitted by the relevant law, You grant to Us a
-perpetual, worldwide, non-exclusive, transferable, royalty-free, irrevocable
-license under the Copyright covering the Contribution, with the right to
-sublicense such rights through multiple tiers of sublicensees, to reproduce,
-modify, display, perform and distribute the Contribution as part of the
-Material; provided that this license is conditioned upon compliance with
-Section 2.3.
-
-### 2.2 Patent License
-
-For patent claims including, without limitation, method, process, and
-apparatus claims which You own, control or have the right to grant, now or in
-the future, You grant to Us a perpetual, worldwide, non-exclusive,
-transferable, royalty-free, irrevocable patent license, with the right to
-sublicense these rights to multiple tiers of sublicensees, to make, have made,
-use, sell, offer for sale, import and otherwise transfer the Contribution and
-the Contribution in combination with the Material (and portions of such
-combination). This license is granted only to the extent that the exercise of
-the licensed rights infringes such patent claims; and provided that this
-license is conditioned upon compliance with Section 2.3.
+(a) In consideration for Us agreeing to consider including Your Contribution 
+within LogSearch, and including it if we decide to do so, at the time the 
+Contribution is Submitted, You hereby irrevocably assign to Us throughout the 
+world on a fully paid up and royalty-free basis, all right, title, and interest 
+in to and under all Intellectual Property Rights in the Contribution free from 
+all encumbrances.
+(b) To the extent that any of the rights in Section 2.1(a) cannot be assigned 
+by You to Us, You grant to Us a perpetual, worldwide, exclusive, royalty-free, 
+transferable, irrevocable license under such non-assigned rights, with rights to 
+sublicense through multiple tiers of sublicensees, to practice such non-assigned 
+rights, including, but not limited to, the right to reproduce, modify, display, 
+perform and distribute the Contribution.
+(c) To the extent that any of the rights in Section 2.1(a) can neither be 
+assigned nor licensed by You to Us, You irrevocably waive and agree never to 
+assert such rights against Us, any of our successors in interest, or any of 
+our licensees, either direct or indirect.
+(d) Upon such transfer of rights to Us, We hereby grant to You a perpetual, 
+worldwide, non-exclusive, royalty-free, transferable, irrevocable license 
+under such rights covering the Contribution, with rights to sublicense through 
+multiple tiers of sublicensees, to reproduce, modify, display, perform, and 
+distribute the Contribution. This license back is limited to the 
+Contribution and does not provide any rights to the Material.
 
 ### 2.3 Outbound License
 
-As a condition on the grant of rights in Sections 2.1 and 2.2, We agree to
-license the Contribution only under the terms of the license or licenses which
-We are using on the Submission Date for the Material or any licenses which are
-approved by the Open Source Initiative on or after the Effective Date,
-including both permissive and copyleft licenses, whether or not such licenses
-are subsequently disapproved (including any right to adopt any future version
-of a license if permitted).
+We agree to license the Contribution under the terms of the license applicable 
+to LogSearch from time to time and/or the following additional licenses 
+Apache License 2.0 (including any right to adopt any future version of a license 
+if permitted).  
+In addition, We may use the following licenses for Media in the Contribution 
+(including any right to adopt any future version of a license if permitted):
+Creative Commons Attribution - https://creativecommons.org/licenses/by/4.0
 
 2.4 Moral Rights. If moral rights apply to the Contribution, to the maximum
 extent permitted by law, You waive and agree not to assert such moral rights
@@ -97,17 +112,20 @@ You confirm that:
 
 (a) You have the legal authority to enter into this Agreement.
 
-(b) You own the Copyright and patent claims covering the Contribution which
-are required to grant the rights under Section 2.
+(b) You own the Intellectual Property Rights assigned and or licensed under 
+this Agreement;
 
 (c) The grant of rights under Section 2 does not violate any grant of rights
 which You have made to third parties, including Your employer. If You are an
 employee, You have had Your employer approve this Agreement or sign the Entity
-version of this document. If You are less than eighteen years old, please have
-Your parents or guardian sign the Agreement.
+version of this document. 
 
-(d) You have followed the instructions in http://www.logsearch.io/licensing,
-if You do not own the Copyright in the entire work of authorship Submitted.
+(d) You are over eighteen years old, or if not, that Your parents or guardian 
+have lawfully signed the Agreement on Your behalf with Your consent.
+
+(e) You have followed the instructions in https://github.com/logsearch/licensing,
+if You do not own the Intellectual Property Rights in the entire work of 
+authorship Submitted.
 
 ## 4. Disclaimer
 
@@ -118,8 +136,14 @@ PARTICULAR PURPOSE AND NON-INFRINGEMENT ARE EXPRESSLY DISCLAIMED BY YOU TO US.
 TO THE EXTENT THAT ANY SUCH WARRANTIES CANNOT BE DISCLAIMED, SUCH WARRANTY IS
 LIMITED IN DURATION TO THE MINIMUM PERIOD PERMITTED BY LAW.
 
+4.1 Limitations and Exclusions
+Nothing in this Agreement shall exclude or limit the liability of You or Us 
+for acts of fraud (including fraudulent misrepresentation) or for death or 
+personal injury caused by negligence.
+
 ## 5. Consequential Damage Waiver
 
+SUBJECT TO THE IMMEDIATELY PRECEDING CLAUSE, 
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL YOU BE
 LIABLE FOR ANY LOSS OF PROFITS, LOSS OF ANTICIPATED SAVINGS, LOSS OF DATA,
 INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL AND EXEMPLARY DAMAGES ARISING OUT
@@ -129,15 +153,14 @@ OR OTHERWISE) UPON WHICH THE CLAIM IS BASED.
 ## 6. Miscellaneous
 
 6.1 This Agreement will be governed by and construed in accordance with the
-laws of England and Wales excluding its conflicts of law provisions. Under
-certain circumstances, the governing law in this section might be superseded
-by the United Nations Convention on Contracts for the International Sale of
-Goods ("UN Convention") and the parties intend to avoid the application of the
-UN Convention to this Agreement and, thus, exclude the application of the UN
-Convention in its entirety to this Agreement.
+laws of England excluding its conflicts of law provisions. The provisions of the 
+United Nations Convention on Contracts for the International Sale of Goods 
+shall not apply and are hereby excluded.
 
 6.2 This Agreement sets out the entire agreement between You and Us for Your
 Contributions to Us and overrides all other agreements or understandings.
+Nothing contained in this Agreement shall be construed to make either one of 
+us an agent, partner, joint venturer, or representative of the other for any purpose. 
 
 6.3 If You or We assign the rights or obligations received through this
 Agreement to a third party, as a condition of the assignment, that third party
@@ -158,6 +181,12 @@ terms and conditions set forth in this Agreement shall apply notwithstanding
 any failure of essential purpose of this Agreement or any limited remedy to
 the maximum extent possible under law.
 
+6.6  You and We intend that no term of the contract made by this Agreement 
+may be enforced by any person who is not a party to it and reserve the 
+right to agree to rescind or vary this Agreement without the consent of any 
+other person. The provisions of the Contracts (Rights of Third Parties) Act 1999 
+shall be and hereby are excluded.
+
 You
 
 ________________________
@@ -170,7 +199,7 @@ ________________________
 
 Us
 
-The LogSearch Project (github.com/logsearch) by City Index Ltd.
+The LogSearch Project (https://github.com/logsearch) by City Index Ltd.
 
 Name: Mike Lear
 
@@ -178,4 +207,4 @@ Title: Chief Information Officer
 
 Address: Park House, 16 Finsbury Circus, London, EC2M 7EB, UNITED KINGDOM
 
-Harmony (HA-CLA-I-OSI) Version 1.0
+Based on Harmony (HA-CLA-I-OSI) Version 1.0
