@@ -17,4 +17,4 @@ or [Individual](https://github.com/logsearch/licensing/blob/master/contributor-l
 
 ## What to do if you do not own the copyright in the entire work of authorship?
 
-Please contact david.laing@cityindex.com to discuss further.
+Please contact david.laing@labs.cityindex.com to discuss further.
