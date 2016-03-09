@@ -13,7 +13,7 @@ license those contributions to others under the relevant OSS license.
 
 Please print, sign and submit a scanned copy of the relevant [Entity](https://github.com/logsearch/licensing/blob/master/contributor-license-agreements/LogSearch_Entity_Contributor_License_Agreement.md) 
 or [Individual](https://github.com/logsearch/licensing/blob/master/contributor-license-agreements/LogSearch_Individual_Contributor_License_Agreement.md)
- CLA to david.laing@cityindex.com
+ CLA to david.laing@labs.cityindex.com
 
 ## What to do if you do not own the copyright in the entire work of authorship?
 
