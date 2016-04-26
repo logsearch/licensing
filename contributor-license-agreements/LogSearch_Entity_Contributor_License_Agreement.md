@@ -1,5 +1,6 @@
 # LogSearch Entity Contributor License Agreement
 
+```
    Thank you for your interest in The Logsearch Project (the "Project"); 
    run by GAIN Capital UK Ltd; whoes source code is published at http://github.com/logsearch.
    
@@ -159,7 +160,27 @@ Schedule A
    [Initial list of designated employees.  NB: authorization is not
     tied to particular Contributions.]
 
+Github username : Name : Email
 
+__________________________________
+
+__________________________________
+
+__________________________________
+
+__________________________________
+
+__________________________________
+
+__________________________________
+
+__________________________________
+
+__________________________________
+
+__________________________________
+
+__________________________________
 
 
 Schedule B
@@ -168,4 +189,4 @@ Schedule B
     left blank or omitted if there is no concurrent software grant.]
 
 
-
+```
