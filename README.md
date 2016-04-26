@@ -4,8 +4,8 @@ Licensing for FOSS projects under https://github.com/logsearch
 
 ## Signing the contributor's license agreement
 
-Firstly, thank you for your interest in contributing to LogSearch ("We" or "Us")
-run by City Index Limited (“We" or "Us"). 
+Thank you for your interest in The Logsearch Project (the "Project"); 
+run by GAIN Capital UK Ltd; whoes source code is published at http://github.com/logsearch.
 
 In order to merge your contributions we require you to sign a CLA (Contributor's License Agreeement) 
 assigning your intellectual property rights in the contribution to us, so that we in turn can
