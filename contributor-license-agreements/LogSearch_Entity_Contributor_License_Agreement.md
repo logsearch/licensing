@@ -1,216 +1,171 @@
 # LogSearch Entity Contributor License Agreement
 
-Thank you for your interest in contributing to LogSearch ("We" or "Us")
-run by City Index Limited (“We" or "Us"). 
+   Thank you for your interest in The Logsearch Project (the "Project"); 
+   run by GAIN Capital UK Ltd; whoes source code is published at http://github.com/logsearch.
+   
+   In order to clarify the intellectual property license
+   granted with Contributions from any person or entity, the Project
+   must have a Contributor License Agreement (CLA) on file that has been
+   signed by each Contributor, indicating agreement to the license terms
+   below. This license is for your protection as a Contributor as well
+   as the protection of the Project and its users; it does not change
+   your rights to use your own Contributions for any other purpose.
 
-This contributor agreement ("Agreement") documents the rights granted by
-contributors to Us. To make this document effective, please sign it and send
-it to Us by electronic submission, following the instructions at
-http://github.com/logsearch/licensing. This is a legally binding document, so
-please read it carefully before agreeing to it. The Agreement may cover more
-than one software project managed by Us.
+   This version of the Agreement allows an entity (the "Corporation") to
+   submit Contributions to the Project, to authorize Contributions 
+   submitted by its designated employees to the Project, and to grant 
+   copyright and patent licenses thereto.
 
-## 1. Definitions
+   If you have not already done so, please complete and sign, then scan and
+   email a pdf file of this Agreement to david.laing@labs.cityinde.com
+   
+   Please read this document carefully before signing and keep a copy for
+   your records.
 
-"You" means any Legal Entity on behalf of whom a Contribution has been
-received by Us. "Legal Entity" means an entity which is not a natural person.
-"Affiliates" means other Legal Entities that control, are controlled by, or
-under common control with that Legal Entity. For the purposes of this
-definition, "control" means (i) the power, direct or indirect, to cause the
-direction or management of such Legal Entity, whether by contract or
-otherwise, (ii) ownership of fifty percent (50%) or more of the outstanding
-shares or securities which vote to elect the management or other persons who
-direct such Legal Entity or (iii) beneficial ownership of such entity.
+   Corporation name:    ________________________________________________
 
-"Contribution" means any work of authorship that is Submitted by You to Us in
-which You own or assert ownership of the Intellectual Property Rights. If You do 
-not own the Intellectual Property Rights in the entire work of authorship, please 
-follow the instructions in http://github.com/logsearch/licensing.
+   Corporation address: ________________________________________________
 
-"Intellectual Property Rights" means without limitation, all present and future 
-rights title and interest  (as the same may be extended or amended) throughout 
-the world in to or arising out of all forms of intellectual property including: 
-(i) any national or international patent, patent claims  including, without 
-limitation, method, process, and apparatus claims, and any and all re¬issues, 
-divisions, continu¬a¬¬tions, renewals, extensions and continuations-in-part thereof; 
-(ii) inventions (whether patentable or not in any country), invention disclosures, 
-improvements, trade secrets, proprietary information, know-how, technology and 
-technical data; 
-(iii) copyrights, copyright registrations, mask works, mask work registrations; and 
-(iv) all trade names, logos, common law trademarks and service marks; trademark 
-and service mark registrations, goodwill, business names and domain names; and 
-(v) all so-called ‘sui generis’ rights (otherwise known as database rights); and 
-(vi) all rights in registered and unregistered designs; and 
-(vii) any other proprietary rights anywhere in the world and all rights or forms 
-of protection having equivalent or similar effect to any of the foregoing; and 
-(viii) applications for the grant of any of the foregoing anywhere in the world, 
-and all other rights corresponding thereto throughout the world together with 
-and all rights of registration, extension and renewal thereof; and 
-(ix) the right to bring legal proceedings to enforce any of the foregoing rights.
+                        ________________________________________________
 
-"Material" means the work of authorship which is made available by Us to third
-parties. When this Agreement covers more than one software project, the
-Material means the work of authorship to which the Contribution was Submitted.
-After You Submit the Contribution, it may be included in the Material.
+                        ________________________________________________
 
-"Submit" means any form of electronic, verbal, or written communication sent
-to Us or our representatives, including but not limited to electronic mailing
-lists, source code control systems, and issue tracking systems that are
-managed by, or on behalf of, Us for the purpose of discussing and improving
-the Material, but excluding communication that is conspicuously marked or
-otherwise designated in writing by You as "Not a Contribution."
+   Point of Contact:    ________________________________________________
 
-"Submission Date" means the date on which You Submit a Contribution to Us.
+          E-Mail:       ________________________________________________
 
-"Effective Date" means the date You execute this Agreement or the date You
-first Submit a Contribution to Us, whichever is earlier.
+          Telephone:    _____________________ Fax: _____________________
 
-"Media" means any portion of a Contribution which is not software.
 
-## 2. Grant of Rights
+   You accept and agree to the following terms and conditions for Your
+   present and future Contributions submitted to the Project. In
+   return, the Project shall not use Your Contributions in a way that
+   is contrary to the public benefit or inconsistent with its nonprofit
+   status and bylaws in effect at the time of the Contribution. Except
+   for the license granted herein to the Project and recipients of
+   software distributed by the Project, You reserve all right, title,
+   and interest in and to Your Contributions.
 
-### 2.1 Intellectual Property Rights Assignment
+   1. Definitions.
 
-(a) In consideration for Us agreeing to consider including Your Contribution 
-within LogSearch, and including it if we decide to do so, at the time the 
-Contribution is Submitted, You hereby irrevocably assign to Us throughout the 
-world on a fully paid up and royalty-free basis, all right, title, and interest 
-in to and under all Intellectual Property Rights in the Contribution free from 
-all encumbrances.
-(b) To the extent that any of the rights in Section 2.1(a) cannot be assigned 
-by You to Us, You grant to Us a perpetual, worldwide, exclusive, royalty-free, 
-transferable, irrevocable license under such non-assigned rights, with rights to 
-sublicense through multiple tiers of sublicensees, to practice such non-assigned 
-rights, including, but not limited to, the right to reproduce, modify, display, 
-perform and distribute the Contribution.
-(c) To the extent that any of the rights in Section 2.1(a) can neither be 
-assigned nor licensed by You to Us, You irrevocably waive and agree never to 
-assert such rights against Us, any of our successors in interest, or any of 
-our licensees, either direct or indirect.
-(d) Upon such transfer of rights to Us, We hereby grant to You a perpetual, 
-worldwide, non-exclusive, royalty-free, transferable, irrevocable license 
-under such rights covering the Contribution, with rights to sublicense through 
-multiple tiers of sublicensees, to reproduce, modify, display, perform, and 
-distribute the Contribution. This license back is limited to the 
-Contribution and does not provide any rights to the Material.
+      "You" (or "Your") shall mean the copyright owner or legal entity
+      authorized by the copyright owner that is making this Agreement
+      with the Project. For legal entities, the entity making a
+      Contribution and all other entities that control, are controlled by,
+      or are under common control with that entity are considered to be a
+      single Contributor. For the purposes of this definition, "control"
+      means (i) the power, direct or indirect, to cause the direction or
+      management of such entity, whether by contract or otherwise, or
+      (ii) ownership of fifty percent (50%) or more of the outstanding
+      shares, or (iii) beneficial ownership of such entity.
 
-### 2.3 Outbound License
+      "Contribution" shall mean the code, documentation or other original
+      works of authorship expressly identified in Schedule B, as well as
+      any original work of authorship, including
+      any modifications or additions to an existing work, that is intentionally
+      submitted by You to the Project for inclusion in, or
+      documentation of, any of the products owned or managed by the
+      Project (the "Work"). For the purposes of this definition,
+      "submitted" means any form of electronic, verbal, or written
+      communication sent to the Project or its representatives,
+      including but not limited to communication on electronic mailing
+      lists, source code control systems, and issue tracking systems
+      that are managed by, or on behalf of, the Project for the
+      purpose of discussing and improving the Work, but excluding
+      communication that is conspicuously marked or otherwise designated
+      in writing by You as "Not a Contribution."
 
-We agree to license the Contribution under the terms of the license applicable 
-to LogSearch from time to time and/or the following additional licenses 
-Apache License 2.0 (including any right to adopt any future version of a license 
-if permitted).  
-In addition, We may use the following licenses for Media in the Contribution 
-(including any right to adopt any future version of a license if permitted):
-Creative Commons Attribution - https://creativecommons.org/licenses/by/4.0
+   2. Grant of Copyright License. Subject to the terms and conditions
+      of this Agreement, You hereby grant to the Project and to
+      recipients of software distributed by the Project a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      copyright license to reproduce, prepare derivative works of,
+      publicly display, publicly perform, sublicense, and distribute
+      Your Contributions and such derivative works.
 
-2.4 Moral Rights. If moral rights apply to the Contribution, to the maximum
-extent permitted by law, You waive and agree not to assert such moral rights
-against Us or our successors in interest, or any of our licensees, either
-direct or indirect.
+   3. Grant of Patent License. Subject to the terms and conditions of
+      this Agreement, You hereby grant to the Project and to recipients
+      of software distributed by the Project a perpetual, worldwide,
+      non-exclusive, no-charge, royalty-free, irrevocable (except as
+      stated in this section) patent license to make, have made, use,
+      offer to sell, sell, import, and otherwise transfer the Work,
+      where such license applies only to those patent claims licensable
+      by You that are necessarily infringed by Your Contribution(s)
+      alone or by combination of Your Contribution(s) with the Work to
+      which such Contribution(s) were submitted. If any entity institutes
+      patent litigation against You or any other entity (including a
+      cross-claim or counterclaim in a lawsuit) alleging that your
+      Contribution, or the Work to which you have contributed, constitutes
+      direct or contributory patent infringement, then any patent licenses
+      granted to that entity under this Agreement for that Contribution or
+      Work shall terminate as of the date such litigation is filed.
 
-2.5 Our Rights. You acknowledge that We are not obligated to use Your
-Contribution as part of the Material and may decide to include any
-Contribution We consider appropriate.
+   4. You represent that You are legally entitled to grant the above
+      license. You represent further that each employee of the
+      Corporation designated on Schedule A below (or in a subsequent
+      written modification to that Schedule) is authorized to submit
+      Contributions on behalf of the Corporation.
 
-2.6 Reservation of Rights. Any rights not expressly licensed under this
-section are expressly reserved by You.
+   5. You represent that each of Your Contributions is Your original
+      creation (see section 7 for submissions on behalf of others).
 
-## 3. Agreement
+   6. You are not expected to provide support for Your Contributions,
+      except to the extent You desire to provide support. You may provide
+      support for free, for a fee, or not at all. Unless required by
+      applicable law or agreed to in writing, You provide Your
+      Contributions on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS
+      OF ANY KIND, either express or implied, including, without
+      limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT,
+      MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE.
 
-You confirm that:
+   7. Should You wish to submit work that is not Your original creation,
+      You may submit it to the Project separately from any
+      Contribution, identifying the complete details of its source and
+      of any license or other restriction (including, but not limited
+      to, related patents, trademarks, and license agreements) of which
+      you are personally aware, and conspicuously marking the work as
+      "Submitted on behalf of a third-party: [named here]".
 
-(a) You have the legal authority to enter into this Agreement.
+   8. It is your responsibility to notify the Project when any change
+      is required to the list of designated employees authorized to submit
+      Contributions on behalf of the Corporation, or to the Corporation's
+      Point of Contact with the Project.
 
-(b) You own the Intellectual Property Rights assigned and or licensed under 
-this Agreement;
 
-(c) The grant of rights under Section 2 does not violate any grant of rights
-which You have made to third partiest; 
+You:
 
-(d) You have followed the instructions in https://github.com/logsearch/licensing,
-if You do not own the Intellectual Property Rights in the entire work of 
-authorship Submitted.
+   Please sign: __________________________________ Date: _______________
 
-## 4. Disclaimer
+   Name:        __________________________________
+   
+   Title:       __________________________________
 
-EXCEPT FOR THE EXPRESS WARRANTIES IN SECTION 3, THE CONTRIBUTION IS PROVIDED
-"AS IS". MORE PARTICULARLY, ALL EXPRESS OR IMPLIED WARRANTIES INCLUDING,
-WITHOUT LIMITATION, ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A
-PARTICULAR PURPOSE AND NON-INFRINGEMENT ARE EXPRESSLY DISCLAIMED BY YOU TO US.
-TO THE EXTENT THAT ANY SUCH WARRANTIES CANNOT BE DISCLAIMED, SUCH WARRANTY IS
-LIMITED IN DURATION TO THE MINIMUM PERIOD PERMITTED BY LAW.
+   Corporation: __________________________________
 
-4.1. Limitations and Exclusions
-Nothing in this Agreement shall exclude or limit the liability of You or Us 
-for acts of fraud (including fraudulent misrepresentation) or for death 
-or personal injury caused by negligence.
+Us: 
 
-## 5. Consequential Damage Waiver
-SUBJECT TO THE IMMEDIATELY PRECEDING CLAUSE, 
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL YOU BE
-LIABLE FOR ANY LOSS OF PROFITS, LOSS OF ANTICIPATED SAVINGS, LOSS OF DATA,
-INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL AND EXEMPLARY DAMAGES ARISING OUT
-OF THIS AGREEMENT REGARDLESS OF THE LEGAL OR EQUITABLE THEORY (CONTRACT, TORT
-OR OTHERWISE) UPON WHICH THE CLAIM IS BASED.
+The LogSearch Project (https://github.com/logsearch) by GAIN Capital UK Ltd.
 
-## 6. Miscellaneous
+   Name: Mike Lear
 
-6.1 This Agreement will be governed by and construed in accordance with the
-laws of England excluding its conflicts of law provisions. The provisions of the 
-United Nations Convention on Contracts for the International Sale of Goods 
-shall not apply and are hereby excluded.
+   Title: Chief Information Officer
 
-6.2 This Agreement sets out the entire agreement between You and Us for Your
-Contributions to Us and overrides all other agreements or understandings.
-Nothing contained in this Agreement shall be construed to make either one of 
-us an agent, partner, joint venturer, or representative of the other for any purpose. 
+   Address: Park House, 16 Finsbury Circus, London, EC2M 7EB, UNITED KINGDOM
 
-6.3 If You or We assign the rights or obligations received through this
-Agreement to a third party, as a condition of the assignment, that third party
-must agree in writing to abide by all the rights and obligations in the
-Agreement.
+Based on https://www.apache.org/licenses/cla-corporate.txt r190612
 
-6.4 The failure of either party to require performance by the other party of
-any provision of this Agreement in one situation shall not affect the right of
-a party to require such performance at any time in the future. A waiver of
-performance under a provision in one situation shall not be considered a
-waiver of the performance of the provision in the future or a waiver of the
-provision in its entirety.
+Schedule A
 
-6.5 If any provision of this Agreement is found void and unenforceable, such
-provision will be replaced to the extent possible with a provision that comes
-closest to the meaning of the original provision and which is enforceable. The
-terms and conditions set forth in this Agreement shall apply notwithstanding
-any failure of essential purpose of this Agreement or any limited remedy to
-the maximum extent possible under law.
+   [Initial list of designated employees.  NB: authorization is not
+    tied to particular Contributions.]
 
-6.6  You and We intend that no term of the contract made by this Agreement 
-may be enforced by any person who is not a party to it and reserve the 
-right to agree to rescind or vary this Agreement without the consent of any 
-other person. The provisions of the Contracts (Rights of Third Parties) Act 1999 
-shall be and hereby are excluded.
 
-You
 
-________________________
 
-Name: __________________
+Schedule B
 
-Title: ___________________
+   [Identification of optional concurrent software grant.  Would be
+    left blank or omitted if there is no concurrent software grant.]
 
-Address: ________________
 
-________________________
 
-Us
-
-The LogSearch Project (https://github.com/logsearch) by City Index Ltd.
-
-Name: Mike Lear
-
-Title: Chief Information Officer
-
-Address: Park House, 16 Finsbury Circus, London, EC2M 7EB, UNITED KINGDOM
-
-Based on Harmony (HA-CLA-E-OSI) Version 1.0
