@@ -12,7 +12,7 @@ terms below. This license is for your protection as a Contributor as
 well as the protection of the Project and its users; it does not
 change your rights to use your own Contributions for any other purpose.
 If you have not already done so, please complete and sign, then scan
-and email a pdf file of this Agreement to david.laing@labs.cityindex.com.
+and email a pdf file of this Agreement to opensource@gaincapital.com 
 
 Please read this document carefully before
 signing and keep a copy for your records.
