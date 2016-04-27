@@ -18,7 +18,7 @@
    copyright and patent licenses thereto.
 
    If you have not already done so, please complete and sign, then scan and
-   email a pdf file of this Agreement to david.laing@labs.cityinde.com
+   email a pdf file of this Agreement to opensource@gaincapital.com 
    
    Please read this document carefully before signing and keep a copy for
    your records.
